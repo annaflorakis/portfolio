@@ -1,7 +1,3 @@
-# portfolio
+# portfolio projects
 
-### About me
-Anna, data analyst
-
-### Projects
-my projects
+You can find my portfolio projects upladed here!
